@@ -34,4 +34,6 @@
 # Vscode files
 launch.json
 tasks.json
-.ds_store
+*.ds_store
+*.plist
+*.yml
